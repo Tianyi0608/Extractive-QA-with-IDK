@@ -2,7 +2,7 @@
 ### Running the demo 
 To install the python dependencies, simply do: 
 ```python 
-pip3.6 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 - Check if Django is installed:
