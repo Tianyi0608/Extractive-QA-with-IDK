@@ -12,7 +12,6 @@ pip install -r requirements.txt
  
  - Run the app: 
 ```
-$ cd demo
 $ python3.6 manage.py runserver
 e.g.  python manage.py runserver 0.0.0.0:4003
 ```
