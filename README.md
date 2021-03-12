@@ -1,8 +1,9 @@
 
 ### Running the demo 
 To install the python dependencies, simply do: 
-```python 
-pip install -r requirements.txt
+```python
+$ cd demo
+$ pip install -r requirements.txt
 ```
 
 - Check if Django is installed:
