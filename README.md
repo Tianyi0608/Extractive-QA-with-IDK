@@ -17,5 +17,5 @@ $ python3.6 manage.py runserver
 e.g.  python manage.py runserver 0.0.0.0:4003
 ```
 
-### notes 
-no models in ./models/demo-models/squad2-better-bert-base, the only file in that directory lists the required files for running a prediction model.
+### Notes 
+no model in './models/demo-models/squad2-better-bert-base', the only file in that directory lists the required files for running a prediction model.
